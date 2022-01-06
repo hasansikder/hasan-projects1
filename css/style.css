@@ -52,3 +52,17 @@ small{
 .bg-color3{
     background-color: #ebe83d54;
 }
+.develop-area{
+    width: 50%;
+    background-image: url(images/shapes/shape-1.png);
+    
+}
+.develop-area img{
+    margin-left: 80px;
+    
+  
+}
+.develop-area p{
+    margin-right: 150px;
+}
+
