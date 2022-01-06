@@ -36,9 +36,8 @@ small{
     margin-top: 0px;
 }
 .common-mission{
-  width: 33%;
-  margin: 20px;
-   
+    width: 33%;
+    margin: 20px;   
     padding: 20px;
     border-radius: 20px;
     
@@ -58,11 +57,27 @@ small{
     
 }
 .develop-area img{
-    margin-left: 80px;
-    
-  
+    margin-left: 80px;  
+}
+.develop-area h1{
+    font-size: 40px;
 }
 .develop-area p{
     margin-right: 150px;
 }
 
+/* Footer section start*/
+footer{
+    background-color: rgba(0, 0, 0, 0.801);
+    height: 150px;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+footer h1,small{
+    color: white;
+    
+}
+.footer-year-color{
+    color: tomato;
+}
