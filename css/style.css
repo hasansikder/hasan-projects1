@@ -12,15 +12,23 @@ body{
     margin-left: 80px;
     margin-top: 60px;
 }
+.bio-info{
+    color: black;
+
+
+}
 .about-me p{
     font-size: 18px;
     font-weight: 400;
+}
+.h-mission{
+    text-align: center;
 }
 .h-color{
     color: #FF7F50;
 }
 .h-border{
-    border-left: 4px solid #FFC300;
+    border-left: 4px solid #FFC300;   
     padding-left: 5px;
     font-size: 50px;
 }
@@ -34,6 +42,11 @@ a{
 }
 small{
     margin-top: 0px;
+}
+.mission-area{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
 }
 .common-mission{
     width: 33%;
@@ -74,10 +87,13 @@ footer{
     padding-top: 20px;
     
 }
-footer h1,small{
+footer h2,small{
     color: white;
     
 }
 .footer-year-color{
     color: tomato;
+}
+h1{
+    font-size: 50px;
 }
